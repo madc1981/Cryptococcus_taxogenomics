@@ -1,0 +1,16 @@
+name: biolog_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas>=1.5
+  - openpyxl
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - pip
+  - pip:
+      - unidecode

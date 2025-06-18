@@ -1,0 +1,21 @@
+Label 1,Label 2,ANI,AAI,Species_1,Species_2,Comparison Type,Highlight,Divergence_ANI,Divergence_AAI,Mean Identity
+Cryptococcus_bacillisporus_CA1873,Cryptococcus_decagattii_7685027,96.3893,95.513439,C_baci,C_deca,interspecies,Other,3.6106999999999942,4.486560999999995,95.9513695
+Cryptococcus_decagattii_CBS11687,Cryptococcus_bacillisporus_CA1873,96.4572,95.421296,C_deca,C_baci,interspecies,Other,3.5427999999999997,4.578704000000002,95.93924799999999
+Cryptococcus_bacillisporus_CA1280,Cryptococcus_decagattii_7685027,96.3349,95.521075,C_baci,C_deca,interspecies,Other,3.6650999999999954,4.478925000000004,95.9279875
+Cryptococcus_decagattii_CBS11687,Cryptococcus_bacillisporus_CA1280,96.3103,95.353292,C_deca,C_baci,interspecies,Other,3.689700000000002,4.646708000000004,95.831796
+Cryptococcus_tetragattii_CBS11718,Cryptococcus_hyracis_MF13,95.5092,95.514036,C_tetr,C_hyra,interspecies,Other,4.490799999999993,4.485963999999996,95.511618
+Cryptococcus_tetragattii_IND107,Cryptococcus_hyracis_MF34,95.3897,95.611141,C_tetr,C_hyra,interspecies,Other,4.610299999999995,4.3888589999999965,95.5004205
+Cryptococcus_tetragattii_CBS11718,Cryptococcus_hyracis_MF34,95.3208,95.418871,C_tetr,C_hyra,interspecies,Other,4.6791999999999945,4.581129000000004,95.3698355
+Cryptococcus_hyracis_MF13,Cryptococcus_tetragattii_IND107,95.4457,95.208056,C_hyra,C_tetr,interspecies,Other,4.554299999999998,4.791944000000001,95.326878
+Cryptococcus_gattii_E566,Cryptococcus_hyracis_MF13,94.956,95.248332,C_gatt,C_hyra,interspecies,Other,5.043999999999997,4.751667999999995,95.10216600000001
+Cryptococcus_gattii_E566,Cryptococcus_bacillisporus_CA1873,95.2648,94.851483,C_gatt,C_baci,interspecies,Other,4.735200000000006,5.148516999999998,95.0581415
+Cryptococcus_gattii_E566,Cryptococcus_tetragattii_CBS11718,94.7665,95.327076,C_gatt,C_tetr,interspecies,Other,5.2335000000000065,4.672923999999995,95.04678799999999
+Cryptococcus_gattii_E566,Cryptococcus_hyracis_MF34,94.8517,95.155941,C_gatt,C_hyra,interspecies,Other,5.148300000000006,4.8440590000000014,95.00382049999999
+Cryptococcus_gattii_E566,Cryptococcus_bacillisporus_CA1280,95.1017,94.736656,C_gatt,C_baci,interspecies,Other,4.898300000000006,5.263344000000004,94.91917799999999
+Cryptococcus_hyracis_MF34,Cryptococcus_bacillisporus_CA1873,94.8501,94.947576,C_hyra,C_baci,interspecies,Other,5.149900000000002,5.052424000000002,94.898838
+Cryptococcus_bacillisporus_CA1280,Cryptococcus_hyracis_MF34,94.8312,94.921407,C_baci,C_hyra,interspecies,Other,5.1688000000000045,5.078592999999998,94.8763035
+Cryptococcus_hyracis_MF13,Cryptococcus_bacillisporus_CA1873,95.0341,94.654911,C_hyra,C_baci,interspecies,Other,4.965900000000005,5.3450890000000015,94.8445055
+Cryptococcus_gattii_E566,Cryptococcus_tetragattii_IND107,94.7698,94.880796,C_gatt,C_tetr,interspecies,Other,5.230199999999996,5.119203999999996,94.825298
+Cryptococcus_tetragattii_IND107,Cryptococcus_bacillisporus_CA1280,94.7796,94.822372,C_tetr,C_baci,interspecies,Other,5.220399999999998,5.177627999999999,94.800986
+Cryptococcus_tetragattii_CBS11718,Cryptococcus_bacillisporus_CA1873,94.9121,94.636521,C_tetr,C_baci,interspecies,Other,5.087900000000005,5.363478999999998,94.7743105
+Cryptococcus_tetragattii_IND107,Cryptococcus_bacillisporus_CA1873,94.811,94.736821,C_tetr,C_baci,interspecies,Other,5.188999999999993,5.263178999999994,94.7739105

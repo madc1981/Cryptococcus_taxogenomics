@@ -1,0 +1,23 @@
+name: popgen_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - bcftools
+  - samtools
+  - vcftools
+  - plink
+  - poplddecay
+  - snp-sites
+  - iqtree
+  - biopython
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tqdm
+  - pip
+  - pip:
+      - pyvcf
