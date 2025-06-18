@@ -1,5 +1,7 @@
 # Cryptococcus_taxogenomics
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15686462.svg)](https://doi.org/10.5281/zenodo.15686462)
+
 This repository contains all scripts, data files, and output necessary to reproduce the analyses from the study **"Genomic delineation and taxonomic description of new Cryptococcus species"**.
 
 ## Repository structure
@@ -24,3 +26,5 @@ Released under the MIT License. See `LICENSE` for details.
 ## Contact
 
 For questions, contact: `marco.dias.coelho [at] duke.edu`
+
+
